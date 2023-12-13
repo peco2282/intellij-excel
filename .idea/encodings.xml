@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/2-a.xlsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/res/LL" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/github/peco2282/excel/XMLLoader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/github/peco2282/excel/holder/AttributeHolder.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/github/peco2282/excel/holder/CellHolder.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/github/peco2282/excel/holder/ElementHolder.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/github/peco2282/excel/tasks/ProgressTaskbar.kt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/github/peco2282/excel/workbook/ExcelFileEditorProvider.kt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
